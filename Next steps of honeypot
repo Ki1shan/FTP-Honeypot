@@ -1,0 +1,14 @@
+ftp_server_socket.bind((...
+
+
+
+you should bind the socket to your IP and desired port like this:
+
+ftp_server_socket.bind((my_ip, PORT))
+ftp_server_socket.listen()
+print(f"[*] FTP Server started at {my_ip}:{PORT}")
+while True:
+    client_socket, addr = ftp_server_socket.accept()
+    print(f"[+] Connection from {addr}")
+    client_thread = threading.Thread(target=handle_client, args=(client_socket, random_file_names, random_dir_names))
+    client_thread.start()
