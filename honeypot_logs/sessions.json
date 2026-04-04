@@ -1,0 +1,200 @@
+[
+  {
+    "session_id": "4AFF731D",
+    "ip_address": "192.168.1.9",
+    "username": "admin PASS 1234",
+    "start_time": "2026-04-04T13:15:21.893770",
+    "commands": [],
+    "login_attempts": 2,
+    "failed_logins": 1,
+    "threat_score": 0,
+    "closed": true
+  },
+  {
+    "session_id": "9E8351AC",
+    "ip_address": "192.168.1.9",
+    "username": "admin PASS password",
+    "start_time": "2026-04-04T13:17:13.554410",
+    "commands": [],
+    "login_attempts": 2,
+    "failed_logins": 1,
+    "threat_score": 0,
+    "closed": true
+  },
+  {
+    "session_id": "4461D59F",
+    "ip_address": "192.168.1.9",
+    "username": "admin",
+    "start_time": "2026-04-04T13:23:06.502394",
+    "commands": [],
+    "login_attempts": 1,
+    "failed_logins": 0,
+    "threat_score": 0,
+    "closed": true
+  },
+  {
+    "session_id": "7B1DB48B",
+    "ip_address": "192.168.1.9",
+    "username": "admin",
+    "start_time": "2026-04-04T13:23:06.510749",
+    "commands": [],
+    "login_attempts": 1,
+    "failed_logins": 1,
+    "threat_score": 0,
+    "closed": true
+  },
+  {
+    "session_id": "D743DD6F",
+    "ip_address": "192.168.1.9",
+    "username": "admin",
+    "start_time": "2026-04-04T13:23:06.515631",
+    "commands": [],
+    "login_attempts": 1,
+    "failed_logins": 1,
+    "threat_score": 0,
+    "closed": true
+  },
+  {
+    "session_id": "C2853055",
+    "ip_address": "192.168.1.9",
+    "username": "admin",
+    "start_time": "2026-04-04T13:23:06.517139",
+    "commands": [],
+    "login_attempts": 1,
+    "failed_logins": 1,
+    "threat_score": 0,
+    "closed": true
+  },
+  {
+    "session_id": "1755FC11",
+    "ip_address": "192.168.1.9",
+    "username": "admin",
+    "start_time": "2026-04-04T13:23:06.518121",
+    "commands": [],
+    "login_attempts": 1,
+    "failed_logins": 0,
+    "threat_score": 0,
+    "closed": true
+  },
+  {
+    "session_id": "20394981",
+    "ip_address": "192.168.1.9",
+    "username": "admin",
+    "start_time": "2026-04-04T13:23:06.519109",
+    "commands": [],
+    "login_attempts": 1,
+    "failed_logins": 1,
+    "threat_score": 0,
+    "closed": true
+  },
+  {
+    "session_id": "D0DA0260",
+    "ip_address": "192.168.1.9",
+    "username": "admin",
+    "start_time": "2026-04-04T13:23:06.520083",
+    "commands": [],
+    "login_attempts": 1,
+    "failed_logins": 1,
+    "threat_score": 0,
+    "closed": true
+  },
+  {
+    "session_id": "481580F3",
+    "ip_address": "192.168.1.9",
+    "username": "admin",
+    "start_time": "2026-04-04T13:23:06.521052",
+    "commands": [],
+    "login_attempts": 1,
+    "failed_logins": 1,
+    "threat_score": 0,
+    "closed": true
+  },
+  {
+    "session_id": "9E3FE727",
+    "ip_address": "192.168.1.9",
+    "username": "admin",
+    "start_time": "2026-04-04T13:23:06.523012",
+    "commands": [],
+    "login_attempts": 1,
+    "failed_logins": 1,
+    "threat_score": 0,
+    "closed": true
+  },
+  {
+    "session_id": "F303BBE4",
+    "ip_address": "192.168.1.9",
+    "username": "admin",
+    "start_time": "2026-04-04T13:23:06.523978",
+    "commands": [],
+    "login_attempts": 1,
+    "failed_logins": 1,
+    "threat_score": 0,
+    "closed": true
+  },
+  {
+    "session_id": "9979AB08",
+    "ip_address": "192.168.1.9",
+    "username": "admin",
+    "start_time": "2026-04-04T13:23:06.524963",
+    "commands": [],
+    "login_attempts": 2,
+    "failed_logins": 2,
+    "threat_score": 0,
+    "closed": true
+  },
+  {
+    "session_id": "89D108D7",
+    "ip_address": "192.168.1.9",
+    "username": "admin",
+    "start_time": "2026-04-04T13:23:06.524963",
+    "commands": [],
+    "login_attempts": 1,
+    "failed_logins": 1,
+    "threat_score": 0,
+    "closed": true
+  },
+  {
+    "session_id": "A5095B6C",
+    "ip_address": "192.168.1.9",
+    "username": "admin",
+    "start_time": "2026-04-04T13:23:06.525932",
+    "commands": [],
+    "login_attempts": 1,
+    "failed_logins": 1,
+    "threat_score": 0,
+    "closed": true
+  },
+  {
+    "session_id": "04EF7C62",
+    "ip_address": "192.168.1.9",
+    "username": "admin",
+    "start_time": "2026-04-04T13:23:06.525932",
+    "commands": [],
+    "login_attempts": 1,
+    "failed_logins": 1,
+    "threat_score": 0,
+    "closed": true
+  },
+  {
+    "session_id": "3CD13648",
+    "ip_address": "192.168.1.9",
+    "username": "admin",
+    "start_time": "2026-04-04T13:23:06.527447",
+    "commands": [],
+    "login_attempts": 1,
+    "failed_logins": 1,
+    "threat_score": 0,
+    "closed": true
+  },
+  {
+    "session_id": "280D46CE",
+    "ip_address": "192.168.1.9",
+    "username": "admin",
+    "start_time": "2026-04-04T13:23:06.528436",
+    "commands": [],
+    "login_attempts": 1,
+    "failed_logins": 1,
+    "threat_score": 0,
+    "closed": true
+  }
+]

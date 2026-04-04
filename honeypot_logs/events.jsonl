@@ -1,0 +1,77 @@
+{"event_type": "login_attempt", "ip": "192.168.1.100", "timestamp": "2026-04-04T12:00:31.394627", "session_id": "1CE5758D", "username": "admin", "password": "pass", "command": ""}
+{"event_type": "login_attempt", "ip": "192.168.1.100", "timestamp": "2026-04-04T12:00:35.559006", "session_id": "8463B80D", "username": "admin", "password": "pass", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.1", "timestamp": "2026-04-04T12:04:06.097712", "session_id": "D559F3D6", "username": "admin", "password": "1234", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.1", "timestamp": "2026-04-04T12:11:42.792141", "session_id": "B31D3F81", "username": "admin", "password": "wrong", "command": ""}
+{"event_type": "connection", "ip": "127.0.0.1", "timestamp": "2026-04-04T12:44:37.249912", "session_id": "B3FEE340", "username": "", "password": "", "command": "", "port": 55802}
+{"event_type": "connection", "ip": "127.0.0.1", "timestamp": "2026-04-04T12:48:53.631052", "session_id": "73D63AAB", "username": "", "password": "", "command": "", "port": 64977}
+{"event_type": "connection", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:09:39.980186", "session_id": "F53951E9", "username": "", "password": "", "command": "", "port": 47770}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:10:10.666132", "session_id": "F53951E9", "username": "admin", "password": "", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:10:11.476212", "session_id": "F53951E9", "username": "admin", "password": "1234", "command": ""}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:10:32.855281", "session_id": "F53951E9", "username": "admin", "password": "", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:11:00.007496", "session_id": "F53951E9", "username": "admin", "password": "12USER admin PASS 1234", "command": ""}
+{"event_type": "error", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:11:50.236196", "session_id": "F53951E9", "username": "", "password": "", "command": "", "error": "'utf-8' codec can't decode byte 0xff in position 0: invalid start byte"}
+{"event_type": "connection", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:12:05.889015", "session_id": "AD782BA0", "username": "", "password": "", "command": "", "port": 34518}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:12:18.736424", "session_id": "AD782BA0", "username": "admin", "password": "", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:12:19.151188", "session_id": "AD782BA0", "username": "admin", "password": "1234", "command": ""}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:12:26.239165", "session_id": "AD782BA0", "username": "admin", "password": "", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:12:34.757146", "session_id": "AD782BA0", "username": "admin", "password": "1234", "command": ""}
+{"event_type": "connection", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:15:21.894747", "session_id": "4AFF731D", "username": "", "password": "", "command": "", "port": 38226}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:15:40.472747", "session_id": "4AFF731D", "username": "admin", "password": "", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:15:41.959350", "session_id": "4AFF731D", "username": "admin", "password": "1234", "command": ""}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:17:02.954580", "session_id": "4AFF731D", "username": "admin PASS 1234", "password": "", "command": ""}
+{"event_type": "error", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:17:10.370618", "session_id": "4AFF731D", "username": "", "password": "", "command": "", "error": "'utf-8' codec can't decode byte 0xff in position 0: invalid start byte"}
+{"event_type": "connection", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:17:13.556371", "session_id": "9E8351AC", "username": "", "password": "", "command": "", "port": 56280}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:17:25.705316", "session_id": "9E8351AC", "username": "admin", "password": "", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:17:32.238462", "session_id": "9E8351AC", "username": "admin", "password": "1234", "command": ""}
+{"event_type": "connection", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.509772", "session_id": "4461D59F", "username": "", "password": "", "command": "", "port": 58810}
+{"event_type": "connection", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.515631", "session_id": "7B1DB48B", "username": "", "password": "", "command": "", "port": 58832}
+{"event_type": "connection", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.517139", "session_id": "D743DD6F", "username": "", "password": "", "command": "", "port": 58812}
+{"event_type": "connection", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.518121", "session_id": "C2853055", "username": "", "password": "", "command": "", "port": 58814}
+{"event_type": "connection", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.519109", "session_id": "1755FC11", "username": "", "password": "", "command": "", "port": 58844}
+{"event_type": "connection", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.520083", "session_id": "20394981", "username": "", "password": "", "command": "", "port": 58854}
+{"event_type": "connection", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.521052", "session_id": "D0DA0260", "username": "", "password": "", "command": "", "port": 58858}
+{"event_type": "connection", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.523012", "session_id": "481580F3", "username": "", "password": "", "command": "", "port": 58856}
+{"event_type": "connection", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.523978", "session_id": "9E3FE727", "username": "", "password": "", "command": "", "port": 58874}
+{"event_type": "connection", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.524963", "session_id": "F303BBE4", "username": "", "password": "", "command": "", "port": 58890}
+{"event_type": "connection", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.524963", "session_id": "9979AB08", "username": "", "password": "", "command": "", "port": 58900}
+{"event_type": "connection", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.525932", "session_id": "89D108D7", "username": "", "password": "", "command": "", "port": 58908}
+{"event_type": "connection", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.525932", "session_id": "A5095B6C", "username": "", "password": "", "command": "", "port": 58896}
+{"event_type": "connection", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.527447", "session_id": "04EF7C62", "username": "", "password": "", "command": "", "port": 58910}
+{"event_type": "connection", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.528436", "session_id": "3CD13648", "username": "", "password": "", "command": "", "port": 58922}
+{"event_type": "connection", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.528436", "session_id": "280D46CE", "username": "", "password": "", "command": "", "port": 58918}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.843906", "session_id": "D743DD6F", "username": "admin", "password": "", "command": ""}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.844883", "session_id": "F303BBE4", "username": "admin", "password": "", "command": ""}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.844883", "session_id": "9979AB08", "username": "admin", "password": "", "command": ""}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.844883", "session_id": "89D108D7", "username": "admin", "password": "", "command": ""}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.846258", "session_id": "C2853055", "username": "admin", "password": "", "command": ""}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.847264", "session_id": "3CD13648", "username": "admin", "password": "", "command": ""}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.846258", "session_id": "04EF7C62", "username": "admin", "password": "", "command": ""}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.846258", "session_id": "280D46CE", "username": "admin", "password": "", "command": ""}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.848246", "session_id": "1755FC11", "username": "admin", "password": "", "command": ""}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.849226", "session_id": "481580F3", "username": "admin", "password": "", "command": ""}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.850202", "session_id": "A5095B6C", "username": "admin", "password": "", "command": ""}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.850202", "session_id": "4461D59F", "username": "admin", "password": "", "command": ""}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.851176", "session_id": "D0DA0260", "username": "admin", "password": "", "command": ""}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.851176", "session_id": "9E3FE727", "username": "admin", "password": "", "command": ""}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.851176", "session_id": "20394981", "username": "admin", "password": "", "command": ""}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.853134", "session_id": "7B1DB48B", "username": "admin", "password": "", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.950376", "session_id": "9979AB08", "username": "admin", "password": "nicole", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.951360", "session_id": "F303BBE4", "username": "admin", "password": "12345678", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.952349", "session_id": "3CD13648", "username": "admin", "password": "princess", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.952349", "session_id": "481580F3", "username": "admin", "password": "daniel", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.954291", "session_id": "280D46CE", "username": "admin", "password": "monkey", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.954291", "session_id": "04EF7C62", "username": "admin", "password": "abc123", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.954291", "session_id": "C2853055", "username": "admin", "password": "12345", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.954291", "session_id": "9E3FE727", "username": "admin", "password": "babygirl", "command": ""}
+{"event_type": "login_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.954291", "session_id": "1755FC11", "username": "admin", "password": "password", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.954291", "session_id": "A5095B6C", "username": "admin", "password": "jessica", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.954291", "session_id": "D0DA0260", "username": "admin", "password": "rockyou", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.955267", "session_id": "D743DD6F", "username": "admin", "password": "123456789", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.954291", "session_id": "20394981", "username": "admin", "password": "iloveyou", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.958208", "session_id": "7B1DB48B", "username": "admin", "password": "1234567", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.958208", "session_id": "89D108D7", "username": "admin", "password": "lovely", "command": ""}
+{"event_type": "login_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:06.954291", "session_id": "4461D59F", "username": "admin", "password": "123456", "command": ""}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:07.061320", "session_id": "9979AB08", "username": "admin", "password": "", "command": ""}
+{"event_type": "login_failed", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:23:07.169773", "session_id": "9979AB08", "username": "admin", "password": "654321", "command": ""}
+{"event_type": "user_attempt", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:27:23.221954", "session_id": "9E8351AC", "username": "admin PASS password", "password": "", "command": ""}
+{"event_type": "error", "ip": "192.168.1.9", "timestamp": "2026-04-04T13:27:29.033654", "session_id": "9E8351AC", "username": "", "password": "", "command": "", "error": "'utf-8' codec can't decode byte 0xff in position 0: invalid start byte"}

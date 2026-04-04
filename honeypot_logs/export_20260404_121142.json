@@ -1,0 +1,42 @@
+{
+  "export_time": "2026-04-04T12:11:42.794861",
+  "sessions": [
+    {
+      "session_id": "B31D3F81",
+      "ip_address": "192.168.1.1",
+      "username": "",
+      "start_time": "2026-04-04T12:11:42.792141",
+      "commands": [
+        {
+          "command": "DELETE secret.txt",
+          "timestamp": "2026-04-04T12:11:42.794861",
+          "threat_level": "HIGH",
+          "mitre_id": "T1070.004",
+          "mitre_name": "File Deletion"
+        }
+      ],
+      "login_attempts": 0,
+      "failed_logins": 0,
+      "threat_score": 10,
+      "closed": false
+    }
+  ],
+  "alerts": [
+    {
+      "timestamp": "2026-04-04T12:11:42.793854",
+      "level": "HIGH",
+      "category": "FILE_DELETE",
+      "source_ip": "192.168.1.1",
+      "session_id": "B31D3F81",
+      "description": "Suspicious command: DELETE secret.txt",
+      "mitre": {
+        "id": "T1070.004",
+        "name": "File Deletion",
+        "tactic": "Defense Evasion"
+      },
+      "details": {
+        "command": "DELETE secret.txt"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+    "ftp": {
+        "host": "0.0.0.0",
+        "port": 21,
+        "timeout": 30
+    },
+    "http": {
+        "host": "0.0.0.0",
+        "port": 80
+    },
+    "detection": {
+        "brute_force_threshold": 5,
+        "brute_force_window_seconds": 300,
+        "recon_command_threshold": 5,
+        "recon_unique_threshold": 3
+    },
+    "logging": {
+        "log_dir": "honeypot_logs",
+        "export_on_exit": true
+    },
+    "honeypot": {
+        "file_count_min": 8,
+        "file_count_max": 12,
+        "dir_count_min": 3,
+        "dir_count_max": 5,
+        "valid_usernames": ["admin", "user", "Administrator", "administrator", "anonymous", "root", "ftp", "test", "guest"],
+        "valid_passwords": ["admin", "pass", "password", "123456", "root", "admin123", "test", "anonymous", "ftp", "guest"]
+    }
+}

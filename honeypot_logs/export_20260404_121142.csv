@@ -1,0 +1,5 @@
+event_type,ip,timestamp,session_id,username,password,command
+login_attempt,192.168.1.100,2026-04-04T12:00:31.394627,1CE5758D,admin,pass,
+login_attempt,192.168.1.100,2026-04-04T12:00:35.559006,8463B80D,admin,pass,
+login_failed,192.168.1.1,2026-04-04T12:04:06.097712,D559F3D6,admin,1234,
+login_failed,192.168.1.1,2026-04-04T12:11:42.792141,B31D3F81,admin,wrong,
